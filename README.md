@@ -1,2 +1,14 @@
-# Hospital-Management-System
-A python-based Hospital Management System for managing Patients,Doctors,Appointments,Billing,and medical records efficiently.
+Hospital Management System
+
+This project is developed using Python to manage hospital activities.
+
+Features:
+- Patient Registration
+- Doctor Management
+- Appointment Booking
+- Billing System
+- Medical Records Management
+
+Technology Used:
+- Python
+- SQLite (if used)
